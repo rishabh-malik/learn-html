@@ -9,8 +9,8 @@ Here you will find all the useful resouces for html learning. hope this will hel
 [HTML Tutorial]
 (https://www.youtube.com/playlist?list=PL7DEF7DB564E30CD8)
 ----
-###Syntax 
->http://www.w3schools.com/html/
+[Syntax] 
+(http://www.w3schools.com/html/)
 ----
 ###Books And Resources
 >http://freecomputerbooks.com/webHtmlBooks.html
