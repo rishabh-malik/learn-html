@@ -3,9 +3,9 @@ Here you will find all the useful resouces for html learning. hope this will hel
 #HTML RESOURCES
 ----
 ##VIDEO TUTORIALS
-### [HTML Tutorial for Beginners] 
+[HTML Tutorial for Beginners] 
 (http://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
-###  [HTML Tutorial (hindi)]
+[HTML Tutorial (hindi)]
 (https://www.youtube.com/playlist?list=PL7DEF7DB564E30CD8)
 ----
 ###Syntax 
