@@ -13,10 +13,10 @@ Here you will find all the useful resouces for html learning. hope this will hel
 (http://www.w3schools.com/html/)
 ----
 ###Books And Resources
->http://freecomputerbooks.com/webHtmlBooks.html
->http://www.onlineprogrammingbooks.com/html/
+[Free Computer Books] (http://freecomputerbooks.com/webHtmlBooks.html)
+[Online Programming Books] (http://www.onlineprogrammingbooks.com/html/)
 ----
 ##Apps to help you learn html
 1.[Learn HTML] (https://play.google.com/store/apps/details?id=com.sololearn.htmltrial)
 >               
-2.W3schools offline- https://play.google.com/store/apps/details?id=w3schools.offline
+2.[W3schools offline] (https://play.google.com/store/apps/details?id=w3schools.offline)
